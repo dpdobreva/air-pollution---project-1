@@ -5,4 +5,4 @@ This project used the following data source: https://datos.madrid.es/portal/site
 The analysis includes all measuring stations, subsequently zooming into contrasting couples e.g. central vs. suburban areas.
 In a second stage the analysis will zoom into all stations or city areas. Third stage will cover areas adjacent to Madrid city. 
 Project interim results presentation link: https://www.canva.com/design/DAFIQ1CDY1A/LpzBfG65g7mbHh-2kXYNrg/view?utm_content=DAFIQ1CDY1A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-(Thank yo ufor being patient! I am in the process of uploading more information and code related to this project soon.)
+(Thank you for being patient! I am in the process of uploading more information and code related to this project.)
